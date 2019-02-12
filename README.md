@@ -4,4 +4,10 @@ A algorithm + UI for the I/O knapsack problem.
 
 Assets: Contains files for untiy 3d IDE (version 5.6)
 
-Builds: Contains compiled version
+Builds: Contains compiled executable
+
+
+### How to run this solution
+Clone the repo and **open** [Rucksackproblem.exe](https://github.com/ScholliYT/Rucksackproblem/blob/master/Builds/Rucksackproblem.exe) in Builds folder.
+
+![Screenshot](screenshot_rucksackproblem.png?raw=true "Screenshot Rucksackproblem")
